@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Athara2324
+- 👋 Hi, I’m @Atharva2324
 - 👀 I’m interested in web decelopment
 - 🌱 I’m currently learning ML and AI
 - 💞️ I’m looking to collaborate on ...
