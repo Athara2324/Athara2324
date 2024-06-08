@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atharva2324
-- 👀 I’m interested in web decelopment
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning ML and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me at jatharva2324@gmail.com
